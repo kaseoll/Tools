@@ -1,0 +1,2 @@
+#usr/bin/bash
+gcc tools/add_char_ene.c -o addend
